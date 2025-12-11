@@ -1,0 +1,85 @@
+Exam created by Professor ibrahim musa
+
+1. Who is known as the founder of IBM Company?
+
+2. Computers, combine both measuring and counting, are called__?
+
+3. What is the extension type of the excel 2007 files?
+
+4. Computers manipulate data in many ways, and this manipulation is called__?
+
+5. Magnetic disk is an example of__?
+
+6. What is correcting errors in a program called ?
+
+7. BCD is __?
+
+8. Unwanted repetitious messages, such as unsolicited bulk e-mail is known as__?
+
+9. What is the name of an application program that gathers user information and sends it to someone through the Internet?
+
+10. Which button makes alphabets/letters in uppercase and lowercase and numbers to symbols?
+
+11. Something which has easily understood instructions is said to be..........?
+
+12. Who is the father of personal computer?
+
+13. In which type of computer, data are represented as discrete signals?
+
+14. In 1999, the Melissa virus was a widely publicised__?
+
+15. What is the software frequently utilized by end users called (like Word, PowerPoint)?
+
+16. The first web browser is__?
+
+17. The unit KIPS is used to measure the speed of __?
+
+18. Unit of measurement of the output quality of a printer?
+
+19. Where does most data go first with in a computer memory hierarchy?
+
+20. XML stands for __?
+
+
+Answer Key
+
+1. Thomas J. Watson
+
+2. Hybrid Computer
+
+3. .xlsx
+
+4. Processing
+
+5. Secondary Memory
+
+6. Debugging
+
+7. Binary Coded Decimal
+
+8. Spam
+
+9. Spybot
+
+10. Shift
+
+11. Analog Data
+
+12. Edward Robert
+
+13. Digital Computer
+
+14. E-mail virus
+
+15. Application Software
+
+16. Mosaic
+
+17. Processor
+
+18. Dot per sq. inch
+
+19. RAM
+
+20. Extensible Markup Language
+
